@@ -41,9 +41,10 @@ The 1x2 pin headers are for connecting the PCB to the ATX headers of your mainbo
 Be careful to not mix up the positive/negative terminals, so + on the PCB has to be connected to + on the mainboard.
 The label "piKVM" on the PCB is next to PIN 1 on the 2x9 pin header. 
 
-## Problems
+## Problems/Warranty
 
 Nothing is working? Get a magnifier and check for solder bridges, short circuits, etc. This PCB has been produced and assembled many times and works very nicely.
+**Be very careful when assembling and connecting this hat! You may easily fry your Raspberry and/or your motherboard. Double check everything! I can and will not be held responsible for you destroying your equipment!**
 
 ## License
 
