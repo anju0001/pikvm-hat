@@ -2,8 +2,8 @@
 # PIKVM HAT
 
 This repo contains all the files you need to produce your own super cheap pikvm hat.
-Originally, the pikvm creators used  ORMOM G3VM-61A1 solid state relays for connection to the ATX header. They are very good, but also very expensive. 
-I created this pikvm hat for the Rapsberry Pi with focus on price and dimensions, that is why I replaced the OMROM parts with super cheap 4N33 optocouplers.
+Originally, the pikvm creators used  OMRON G3VM-61A1 solid state relays for connection to the ATX header. They are very good, but also very expensive. 
+I created this pikvm hat for the Rapsberry Pi with focus on price and dimensions, that is why I replaced the OMRON parts with super cheap 4N33 optocouplers.
 The PCB is small enough to fit in this pikvm case from thingiverse:
 https://www.thingiverse.com/thing:4704821
 
