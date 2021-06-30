@@ -1,3 +1,4 @@
+
 # PIKVM HAT
 
 This repo contains all the files you need to produce your own super cheap pikvm hat.
@@ -25,6 +26,17 @@ What you need to assemble this project:
  - 2x 4k7 resistor (R5+R6)
  
 That is all. Be aware, the 2x9 pin header has to be soldered in from **the bottom**, this has to be a Raspberry hat after all :) Also check for short circuits, expecially if you use heat sinks on the Raspberry! The hat might touch the heat sinks if they are too high.
+
+## Connecting
+
+The 1x2 pin headers are for connecting the PCB to the ATX headers of your mainboard.
+
+    PWR -> Power button
+    RST -> Reset button
+    PLD -> Power LED
+    IDL -> IDE/HDD LED
+
+Be careful to not mix up the positive/negative terminals, so + on the PCB has to be connected to + on the mainboard.
 
 ## Problems
 
