@@ -33,4 +33,5 @@ Nothing is working? Get a magnifier and check for solder bridges, short circuits
 ## License
 
 Free for **non-commercial** use only. If you want to use this commercially or sell this PCB, you **must** contact me first for clarification of terms!
+In this case write an email to info@aj.de
 
