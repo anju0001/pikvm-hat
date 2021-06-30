@@ -9,6 +9,8 @@ I created this pikvm hat for the Rapsberry Pi with focus on price and dimensions
 In the **gerber** directory you will find all files that are needed for production by a PCB factory.
 The directory contains all the single files but as well a ZIP file that you can upload to whatever PCB manufacturer you like. Most factories want you to upload the files as a ZIP archive.
 
+The file **assembly.jpg** in the root directory shows how to assemble the finished PCB.
+
 ## Assembly/BOM
 
 What you need to assemble this project:
