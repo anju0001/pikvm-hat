@@ -30,4 +30,7 @@ That is all. Be aware, the 2x9 pin header has to be soldered in from **the botto
 
 Nothing is working? Get a magnifier and check for solder bridges, short circuits, etc. This PCB has been produced and assembled many times and works very nicely.
 
+## License
+
+Free for **non-commercial** use only. If you want to use this commercially or sell this PCB, you **must** contact me first for clarification of terms!
 
