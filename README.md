@@ -39,6 +39,7 @@ The 1x2 pin headers are for connecting the PCB to the ATX headers of your mainbo
     IDL -> IDE/HDD LED
 
 Be careful to not mix up the positive/negative terminals, so + on the PCB has to be connected to + on the mainboard.
+The label "piKVM" on the PCB is next to PIN 1 on the 2x9 pin header. 
 
 ## Problems
 
