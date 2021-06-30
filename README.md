@@ -20,10 +20,12 @@ What you need to assemble this project:
 
  - 1x PCB
  - 1x double row 9 pin (2x9) pin header
- - 4x 4N33 optocoupler
+ - 4x 4N33 optocoupler (DIP-6)
  - 4x single row 2 pin (1x2) pin header
  - 4x 220R resistor (R1-R4)
  - 2x 4k7 resistor (R5+R6)
+ 
+ All parts are THT technology.
  
 That is all. Be aware, the 2x9 pin header has to be soldered in from **the bottom**, this has to be a Raspberry hat after all :) Also check for short circuits, expecially if you use heat sinks on the Raspberry! The hat might touch the heat sinks if they are too high.
 
